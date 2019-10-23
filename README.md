@@ -36,7 +36,16 @@ two chapters and discuss.
 ## Project Structure:
 
 Feel free to create a directory for your account name and submit any
-code. Please make sure to follow Ryan's James Brown Guide to git
+code.
+
+Basic requests:
+
++ Please no merge commits, flat history is better.
++ Working in your own sub-directory means no conflicts.
++ Pull & rebase before you push so your history is consolidated.
++ Use PRs if you want to get extra reviews. Push directly otherwise.
+
+Please make sure to follow Ryan's James Brown Guide to git
 etiquette:
 
     [alias]
@@ -46,3 +55,5 @@ etiquette:
 Now you too can join the James Brown school of git:
 
     git down && git onup
+
+This will avoid the merge commits and auto-rebase for you.
