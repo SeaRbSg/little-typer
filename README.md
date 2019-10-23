@@ -14,17 +14,24 @@ meetings.
 Here's a tentative schedule. For that week, we'll read through those
 two chapters and discuss.
 
-* Week 1: Kickoff!
-* Week 2: Chapter 1 & 2
-* Week 3: Chapter 3 & 4
-* Week 4: Chapter 5
-* Week 5: Chapter 6
-* Week 6: Chapter 7
-* Week 7: Chapter 8
-* Week 8: Chapter 9
-* Week 9: Chapter 10
+* Week 1:  Kickoff!
+* Week 2:  Chapter 1 & 2
+* Week 3:  Chapter 3 & 4
+* Week 4:  Chapter 5
+* Week 5:  Chapter 6
+* Week 6:  Chapter 7
+* Week 7:  Chapter 8
+* Week 8:  Chapter 9
+* Week 10: Chapter 10
+* Week 11: Chapter 11
+* Week 12: Chapter 12
+* Week 13: Chapter 13
+* Week 14: Chapter 14
+* Week 15: Chapter 15
+* Week 16: Chapter 16
 
 (this is probably bullshit and needs review / editing)
+(damn... 16 weeks seems like a LOT)
 
 ## Project Structure:
 
