@@ -1,4 +1,5 @@
 files = $(wildcard ch*.rkt)
+files += recess.rkt
 targets = $(patsubst %.rkt,%,$(files))
 
 test:
